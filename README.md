@@ -54,6 +54,7 @@ parse_query("5천원 이하로 운동 후에 먹을 거")
 - **전체 코드 (팀 저장소):** https://github.com/nnujabes/Pick_CU
 - **내 작업 폴더:** https://github.com/nnujabes/Pick_CU/tree/main/members/hayoung
 - **파인튜닝 어댑터 (Hugging Face):** https://huggingface.co/nnujabes/pickcu-ax-4.0-light-lora
+- **발표자료 (PPT):** [영양편의점_프로젝트_발표자료.pptx](%EC%98%81%EC%96%91%ED%8E%B8%EC%9D%98%EC%A0%90_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)
 
 ## 이 저장소의 파일
 
@@ -61,3 +62,4 @@ parse_query("5천원 이하로 운동 후에 먹을 거")
 | --- | --- |
 | `index.html` | 프로젝트 페이지 (GitHub Pages) |
 | `images/` | 서비스 화면 캡처와 시연 영상 |
+| `영양편의점_프로젝트_발표자료.pptx` | 최종 발표자료 |
